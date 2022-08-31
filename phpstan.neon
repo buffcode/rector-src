@@ -742,7 +742,6 @@ parameters:
         -
             message: '#Only booleans are allowed in a negated boolean, string\|false given#'
             path: packages/Testing/Fixture/FixtureFileUpdater.php
-<<<<<<< HEAD
 
         -
             message: '#Content of method "(.*?)" is duplicated\. Use unique content or service instead#'
@@ -779,5 +778,3 @@ parameters:
         -
             message: '#Content of method "(.*?)" is duplicated\. Use unique content or service instead#'
             path:  rules/DeadCode/Rector/ConstFetch/RemovePhpVersionIdCheckRector.php
-=======
->>>>>>> bump to fixed symplify/phsptan-rules
